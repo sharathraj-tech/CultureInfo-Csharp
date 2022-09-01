@@ -1,2 +1,2 @@
-# CultureInfo-C-
+# CultureInfo-C-Sharp
 This repository is all about Cultureinfo class
