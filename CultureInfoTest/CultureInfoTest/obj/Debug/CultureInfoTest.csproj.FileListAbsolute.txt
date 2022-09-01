@@ -1,0 +1,10 @@
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.csprojAssemblyReference.cache
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.Form1.resources
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.Properties.Resources.resources
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.csproj.GenerateResource.cache
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.csproj.CoreCompileInputs.cache
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\bin\Debug\CultureInfoTest.exe.config
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\bin\Debug\CultureInfoTest.exe
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\bin\Debug\CultureInfoTest.pdb
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.exe
+D:\Sharath_Raj\Projects_Created\2022_08_30\CultureInfoTest\CultureInfoTest\obj\Debug\CultureInfoTest.pdb
